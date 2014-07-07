@@ -128,6 +128,7 @@ static const float MIN_SPEED = 5.f;
 
 
 - (void)releaseCatapult {
+    _currentPenguin.launched = TRUE;
     if (_mouseJoint != nil)
     {
         // releases the joint and lets the catapult snap back
