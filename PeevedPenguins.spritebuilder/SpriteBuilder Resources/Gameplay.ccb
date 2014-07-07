@@ -213,8 +213,8 @@
 					<string>Point</string>
 					<key>value</key>
 					<array>
-						<real>14</real>
-						<real>150</real>
+						<real>13.28515625</real>
+						<real>134.42578125</real>
 					</array>
 				</dict>
 				<dict>
@@ -246,7 +246,7 @@
 					<string>EnabledFloat</string>
 					<key>value</key>
 					<array>
-						<real>50</real>
+						<real>65.138809204101562</real>
 						<true/>
 					</array>
 				</dict>
@@ -765,8 +765,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
