@@ -10,6 +10,7 @@
 		1BFD4D0619692AD400BB3C31 /* Penguin.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BFD4D0519692AD400BB3C31 /* Penguin.m */; };
 		1BFD4D0A19692ADE00BB3C31 /* Seal.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BFD4D0919692ADE00BB3C31 /* Seal.m */; };
 		1BFD4D0D19693AF700BB3C31 /* Gameplay.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BFD4D0C19693AF700BB3C31 /* Gameplay.m */; };
+		1BFD4D10196A672100BB3C31 /* WaitingPenguin.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BFD4D0F196A672100BB3C31 /* WaitingPenguin.m */; };
 		8392007A18EE8E3300B6C429 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8392007918EE8E3300B6C429 /* GLKit.framework */; };
 		B71F5911188484E7003F4D28 /* iPad-old.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F5907188484E7003F4D28 /* iPad-old.png */; };
 		B71F5912188484E7003F4D28 /* iPad-old@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F5908188484E7003F4D28 /* iPad-old@2x.png */; };
@@ -65,6 +66,8 @@
 		1BFD4D0919692ADE00BB3C31 /* Seal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Seal.m; sourceTree = "<group>"; };
 		1BFD4D0B19693AF700BB3C31 /* Gameplay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Gameplay.h; sourceTree = "<group>"; };
 		1BFD4D0C19693AF700BB3C31 /* Gameplay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Gameplay.m; sourceTree = "<group>"; };
+		1BFD4D0E196A672100BB3C31 /* WaitingPenguin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WaitingPenguin.h; sourceTree = "<group>"; };
+		1BFD4D0F196A672100BB3C31 /* WaitingPenguin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WaitingPenguin.m; sourceTree = "<group>"; };
 		8392007918EE8E3300B6C429 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
 		B71F5907188484E7003F4D28 /* iPad-old.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iPad-old.png"; path = "Icons/iPad-old.png"; sourceTree = "<group>"; };
 		B71F5908188484E7003F4D28 /* iPad-old@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iPad-old@2x.png"; path = "Icons/iPad-old@2x.png"; sourceTree = "<group>"; };
@@ -144,6 +147,8 @@
 				1BFD4D0919692ADE00BB3C31 /* Seal.m */,
 				1BFD4D0B19693AF700BB3C31 /* Gameplay.h */,
 				1BFD4D0C19693AF700BB3C31 /* Gameplay.m */,
+				1BFD4D0E196A672100BB3C31 /* WaitingPenguin.h */,
+				1BFD4D0F196A672100BB3C31 /* WaitingPenguin.m */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -357,6 +362,7 @@
 			files = (
 				1BFD4D0A19692ADE00BB3C31 /* Seal.m in Sources */,
 				B737893F1807617C0076A88C /* AppDelegate.m in Sources */,
+				1BFD4D10196A672100BB3C31 /* WaitingPenguin.m in Sources */,
 				B7378994180767190076A88C /* MainScene.m in Sources */,
 				1BFD4D0619692AD400BB3C31 /* Penguin.m in Sources */,
 				B73789871807631A0076A88C /* main.m in Sources */,
