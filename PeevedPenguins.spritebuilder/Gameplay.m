@@ -11,7 +11,7 @@
 #import "Penguin.h"
 
 
-static const float MIN_SPEED = 5.f;
+static const float MIN_SPEED = 10.f;
 
 @implementation Gameplay  {
     CCPhysicsNode *_physicsNode;
